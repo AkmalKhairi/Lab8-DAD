@@ -3,7 +3,7 @@
 - Name: MUHAMMAD AKMAL KHAIRI BIN ABDUL HALIM
 - Matrics Number: B031920017
 
-![Capture](https://user-images.githubusercontent.com/73923156/117404159-02837400-af3c-11eb-8cd7-7b97982165f1.JPG)
+![Capture](https://user-images.githubusercontent.com/73923156/117431591-00c9a880-af5c-11eb-8d88-a4fa7fe0ce90.JPG)
 
 
 Output on Lab 8 (Exercise 1)
